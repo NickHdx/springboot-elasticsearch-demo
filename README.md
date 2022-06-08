@@ -145,3 +145,7 @@ public class Config {
 ```
 ## Further
 * Use logstash to sync data from Database to Elasticsearch
+
+## References
+* https://www.elastic.co/guide/en/elasticsearch/client/java-api-client/7.17/introduction.html
+* https://docs.spring.io/spring-data/elasticsearch/docs/current/reference/html/#preface
