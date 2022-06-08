@@ -30,14 +30,4 @@ vcs.xml
 .sonarlint/
 logs/
 /.recommenders/
-SQL_mybatis_log_self.html
-DWStartDateTime.txt
-application-local.properties
-application-prodlocal.properties
-test_thaorphan.txt
-test_thaoutscore.txt
-THA_Test_SpecialDeal.java
-EETTemplateTest.java
-### Arthas ###
-arthas-output/
 
